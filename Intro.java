@@ -6,7 +6,7 @@ public class Intro {
         String a = "Hello World abcd" ;
         System.out.println("String is " + a);
 
-        int length = a.length();
-        System.out.println("length is "+ length);
+        int i = a.length();
+        System.out.println("length is "+ i);
     }
 }
