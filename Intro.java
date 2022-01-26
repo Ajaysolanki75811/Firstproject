@@ -11,6 +11,8 @@ public class Intro {
         int c = b.length();
         System.out.println("String b is =" + b);
         System.out.println("Length of b is ="  + c);
-        System.out.println("hello");
+        System.out.println("hello abcd");
+        System.out.println("hello 123");
+
     }
 }
